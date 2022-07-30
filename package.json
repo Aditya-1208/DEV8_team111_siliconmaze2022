@@ -1,0 +1,22 @@
+{
+  "name": "dev8_team111_siliconmaze2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-1208/DEV8_team111_siliconmaze2022.git"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-1208/DEV8_team111_siliconmaze2022/issues"
+  },
+  "homepage": "https://github.com/Aditya-1208/DEV8_team111_siliconmaze2022#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
